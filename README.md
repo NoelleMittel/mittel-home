@@ -1,2 +1,5 @@
-# mittel-home
-Jake and Noelle's home site
+# The Mittelstaedt's Home Tablet
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vehicula ipsum a arcu cursus. Quisque non tellus orci ac auctor augue mauris. Tellus integer feugiat scelerisque varius. Quis ipsum suspendisse ultrices gravida dictum fusce ut placerat orci. Molestie nunc non blandit massa enim. Bibendum enim facilisis gravida neque. Orci sagittis eu volutpat odio. Turpis tincidunt id aliquet risus feugiat in. A condimentum vitae sapien pellentesque. Volutpat sed cras ornare arcu dui vivamus arcu felis.
+
+Nunc pulvinar sapien et ligula. Ut etiam sit amet nisl purus in mollis nunc sed. Purus in massa tempor nec. Semper feugiat nibh sed pulvinar proin. Id volutpat lacus laoreet non. Venenatis lectus magna fringilla urna porttitor rhoncus. Scelerisque mauris pellentesque pulvinar pellentesque habitant. Mauris augue neque gravida in. Eget dolor morbi non arcu risus. Sed velit dignissim sodales ut eu sem. Ac feugiat sed lectus vestibulum mattis ullamcorper velit sed. Fermentum et sollicitudin ac orci phasellus egestas tellus. Laoreet non curabitur gravida arcu ac tortor dignissim convallis. Vel turpis nunc eget lorem dolor sed viverra ipsum nunc. Ut placerat orci nulla pellentesque dignissim enim sit amet. Euismod elementum nisi quis eleifend. Ac turpis egestas maecenas pharetra. Neque ornare aenean euismod elementum nisi quis eleifend quam adipiscing.
